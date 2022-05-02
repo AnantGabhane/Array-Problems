@@ -1,1 +1,1 @@
-cout << "Enter input: " << endl;
+        cout << arr[i][j] << " ";
