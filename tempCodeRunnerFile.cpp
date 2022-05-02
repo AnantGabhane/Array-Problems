@@ -1,0 +1,1 @@
+cout << "Enter input: " << endl;
